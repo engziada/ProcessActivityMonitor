@@ -1,0 +1,14 @@
+{
+                "version": "2.0",
+                "description": "Process Activity Monitor",
+                "src": ".",
+                "obf_code": 2,
+                "obf_mod": 2,
+                "wrap_mode": 1,
+                "cross_protection": 1,
+                "restrict_mode": 0,
+                "runtime_path": null,
+                "plugins": null,
+                "platform": null,
+                "is_package": false
+            }
