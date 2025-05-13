@@ -2,11 +2,11 @@
 
 
 a = Analysis(
-    ['run.py'],
-    pathex=['.'],
+    ['obfuscated\\run.py'],
+    pathex=['obfuscated'],
     binaries=[],
     datas=[
-        ('config.ini', '.'),
+        ('obfuscated\\config.ini', '.'),
     ],
     hiddenimports=[
         # From requirements.txt
